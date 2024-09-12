@@ -1,0 +1,22 @@
+#header-question{
+    align-items: center;
+    text-align: center;
+}
+
+#quiz-submit-container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+#quiz-submit{
+    background-color: purple;
+    color: white; 
+    font-size: 20px;
+}
+#quiz-container{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
